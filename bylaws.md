@@ -1,6 +1,6 @@
 ### C Spire Gaming Club Bylaws 
 
-## Nomination Process for Leadership
+## Selection Process for Leadership
 
 ---
 
