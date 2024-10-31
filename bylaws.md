@@ -16,7 +16,7 @@ The C Spire Gaming Club shall have the following leadership position:
 
 ---
 
-**Article III: Nomination Eligibility**
+**Article III: Selection Eligibility**
 
 1. **Eligibility Criteria**:
    - Only active members of the C Spire Gaming Club are eligible for nomination.
@@ -33,11 +33,11 @@ The C Spire Gaming Club shall have the following leadership position:
    - The survey period shall open on the first Monday of October each year and remain open for one month.
    - Members may submit their interest to the club’s Secretary via email or designated digital platform.
 
-2. **Notification of Nomination Period**:
+2. **Notification of Survey Period**:
    - Administrators (defined in Article VIII) shall notify all members of the upcoming survey period at or prior to its commencement.
 
-3. **Acceptance of Nominations**:
-   - Nominees will be contacted by their C Spire email and must accept or decline their appointment within three days of being notified.
+3. **Acceptance of Selection**:
+   - Nominees selected to become Officers will be contacted by their C Spire email and must accept or decline their appointment within three days of being notified.
 
 ---
 
@@ -49,7 +49,7 @@ The C Spire Gaming Club shall have the following leadership position:
 
 2. **Voting Eligibility**:
    - All active Officers are eligible to vote in the election.
-   - Each Officer is entitled to one vote.
+   - Each Officer is entitled to vote for or against a candidate.
 
 3. **Majority Requirement**:
    - A candidate must receive a simple majority of votes to be elected as an Officer.
