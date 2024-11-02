@@ -48,7 +48,7 @@ The C Spire Gaming Club shall have the following leadership position:
    - A confirmation vote will be conducted during a special Officer meeting.
 
 2. **Voting Eligibility**:
-   - All active Officers are eligible to vote in the election.
+   - All active Officers are eligible to vote in the confirmation of new Officers.
    - Each Officer is entitled to vote for or against a candidate.
 
 3. **Majority Requirement**:
