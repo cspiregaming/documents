@@ -19,7 +19,7 @@ The C Spire Gaming Club shall have the following leadership position:
 **Article III: Selection Eligibility**
 
 1. **Eligibility Criteria**:
-   - Only active members of the C Spire Gaming Club are eligible for nomination.
+   - Only active members of the C Spire Gaming Club are eligible for selection.
    - Active members are defined as those who have participated in at least 50% of the club's activities in the last 6 months and who are C Spire employees.
 
 2. **Exclusion Criteria**:
@@ -30,7 +30,7 @@ The C Spire Gaming Club shall have the following leadership position:
 **Article IV: Annual Interest Survey Period**
 
 1. **Interest Survey Period**:
-   - The survey period shall open on the first Monday of October each year and remain open for one month.
+   - The survey period shall open on the third Monday of October each year and remain open until the end of the month.
    - Members may submit their interest to the club’s Secretary via email or designated digital platform.
 
 2. **Notification of Survey Period**:
@@ -44,7 +44,7 @@ The C Spire Gaming Club shall have the following leadership position:
 **Article V: Voting Process**
 
 1. **Confirmation Vote Date**:
-   - A confirmation vote will be held on the first Monday of November each year, following the close of the survey period.
+   - A confirmation vote will be held on the third Monday of November each year, following the close of the survey period.
    - A confirmation vote will be conducted during a special Officer meeting.
 
 2. **Voting Eligibility**:
