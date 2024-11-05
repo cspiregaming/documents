@@ -38,6 +38,11 @@ The C Spire Gaming Club shall have the following leadership position:
 
 3. **Acceptance of Selection**:
    - Nominees selected to become Officers will be contacted by their C Spire email and must accept or decline their appointment within three days of being notified.
+  
+4. **Special Selection Period**:
+   - A special selection period may be called by Administrators in the event of an Officer exiting C Spire Gaming Club.
+   - All other bylaws apply to a special selection period.
+   - No additional Officer positions shall be created and occupied through a special selection period.
 
 ---
 
