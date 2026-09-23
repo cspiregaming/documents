@@ -15,11 +15,11 @@ Article V (Voting Process).
 | Accept/decline deadline | 3 days after nominee notification | Art. IV.3 |
 | Roster/site update | By ~Nov 23, 2026 (after acceptances in) | — |
 
-## Open items before this goes out
+## Secretary
+Micah Smith
 
-- [ ] Secretary contact (name/handle) to route submissions to, per Art. IV.1
-- [ ] Confirm the "designated digital platform" for submissions (e.g. Google Form) and link it
-- [ ] Confirm the Nov 16 special Officer meeting is on the calendar per Art. V.1
+## Application form
+https://dyno.gg/form/1cf4f522
 
 ## Discord announcement draft
 
@@ -37,7 +37,7 @@ running events, moderating, or shaping what we do next — this is your window.
 • Not currently under disciplinary action
 
 📝 **How to apply**
-Submit your interest to [SECRETARY NAME/HANDLE] by email or via [FORM LINK]
+Submit your interest to Micah Smith by email or via https://dyno.gg/form/1cf4f522
 before the survey closes on **Saturday, Oct 31**.
 
 🗳️ **What happens next**
